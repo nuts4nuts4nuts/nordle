@@ -1,0 +1,15 @@
+  /Users/davidjohnston/Documents/projects/nordle:
+  drwxr-xr-x  19 davidjohnston  staff      608 Mar  6 22:27 .
+  drwxr-xr-x@ 12 davidjohnston  staff      384 Mar  6 22:27 ..
+  -rw-r--r--   1 davidjohnston  staff       17 Mar  6 22:27 .env
+  -rw-r--r--   1 davidjohnston  staff      310 Mar  6 22:27 .gitignore
+  -rw-r--r--   1 davidjohnston  staff       30 Mar  6 22:27 .prettierrc
+  -rw-r--r--   1 davidjohnston  staff       68 Mar  6 22:27 Dockerfile
+  -rw-r--r--   1 davidjohnston  staff      323 Mar  6 22:27 README.md
+  -rw-r--r--   1 davidjohnston  staff  1148669 Mar  6 22:27 package-lock.json
+  -rw-r--r--   1 davidjohnston  staff     1674 Mar  6 22:27 package.json
+  -rw-r--r--   1 davidjohnston  staff       82 Mar  6 22:27 postcss.config.js
+  drwxr-xr-x   8 davidjohnston  staff      256 Mar  6 22:27 public
+  drwxr-xr-x  14 davidjohnston  staff      448 Mar  6 22:27 src
+  -rw-r--r--   1 davidjohnston  staff      111 Mar  6 22:27 tailwind.config.js
+  -rw-r--r--   1 davidjohnston  staff      503 Mar  6 22:27 tsconfig.json
